@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a freelancer.
-- 🌱 &nbsp; Learning more about Backend, Design.
 
 <h3>🛠 Tech Stack</h3>
 
