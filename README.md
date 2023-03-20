@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2> Hey there! I'm ReFo.</h2>
 
-<!--
-**ReFo0/ReFo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💼 &nbsp; Working as a freelancer.
+- 🌱 &nbsp; Learning more about Backend, Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; C++, C
+- 🌐 &nbsp; PHP
+
+<br/>
+
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TurkLee&theme=react&line_height=40&hide=css"/> </a>
+
+<img src="https://komarev.com/ghpvc/?username=TurkLee&label=Visitors&color=351c75" alt="TurkLee" />
