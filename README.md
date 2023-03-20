@@ -2,9 +2,8 @@
 
 <h3> About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a freelancer.
-
+- 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++, C
