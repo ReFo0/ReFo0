@@ -6,8 +6,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++, C
-- 🌐 &nbsp; PHP
+- 💻 &nbsp; C#, C++, C
+- 🌐 &nbsp; Python, Java, Javascript, Php, Html, CSS
 
 <br/>
 
