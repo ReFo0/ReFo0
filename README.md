@@ -4,7 +4,7 @@
 
 - 💼 &nbsp; Working as a freelancer.
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠</h3>
 
 - 💻 &nbsp; C#, C++, C
 - 🌐 &nbsp; Python, Java, Javascript, Php, Html, CSS
