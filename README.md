@@ -1,24 +1,16 @@
-# Merhaba, Ben Refo0!
+<h2> Hey there! I'm ReFo.</h2>
 
-## Hakkımda
-Merhaba! Ben Refo0, yazılım geliştirmeyle ilgilenen bir öğrenciyim. Programlama dilleri ve web teknolojileri konusunda deneyimliyim ve özellikle C++, C#, C, Lua, HTML, CSS, JavaScript ve Node.js konularında çalışıyorum. Ayrıca, geliştirme projelerine katılmayı, yeni teknolojileri öğrenmeyi ve yaratıcı çözümler üretmeyi seviyorum.
+<h3> About Me </h3>
 
-## Projelerim
-- [MyAwesomeProject](https://github.com/refo0/MyAwesomeProject): Bu projem, XYZ özelliğini sağlayan bir uygulama geliştirmektedir. C++ ve Lua kullanarak oluşturuldu.
+- 💼 &nbsp; Working as a freelancer.
 
-- [WebMagic](https://github.com/refo0/WebMagic): WebMagic, dinamik web siteleri oluşturmak için kullanılan bir HTML, CSS ve JavaScript kütüphanesidir. Bu proje, kullanıcı dostu ve etkileyici web siteleri oluşturma amacıyla geliştirildi.
+<h3>🛠</h3>
 
-## Yeteneklerim
-- C++
-- C#
-- C
-- Lua
-- HTML
-- CSS
-- JavaScript
-- Node.js
+- 💻 &nbsp; C#, C++, C
+- 🌐 &nbsp; Lua, Python, Java, Javascript, Php, Html, CSS
 
-## İletişim
-- [Discord](https://www.linkedin.com/in/refo0)
-- [Twitter](https://twitter.com/refo0)
-- [Email](mailto:refo0@example.com)
+<br/>
+
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReFo0&theme=react&line_height=40&hide=css"/> </a>
+
+<img src="https://komarev.com/ghpvc/?username=TurkLee&label=Visitors&color=351c75" alt="TurkLee" />
