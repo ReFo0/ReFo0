@@ -7,7 +7,7 @@
 <h3>🛠</h3>
 
 - 💻 &nbsp; C#, C++, C
-- 🌐 &nbsp; lua, python, react js, javascript, php, html, css
+- 🌐 &nbsp; python, lua, react js, javascript, php, html, css
 
 <br/>
 
