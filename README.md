@@ -2,11 +2,11 @@
 
 <h3> About Me </h3>
 
-- 💼 &nbsp; Working as a freelancer.
+- 💼 &nbsp; working as a freelancer.
 
 <h3>🛠</h3>
 
-- 💻 &nbsp; C#, C++, C
+- 💻 &nbsp; c#, c++, c
 - 🌐 &nbsp; python, lua, react js, javascript, php, html, css
 
 <br/>
